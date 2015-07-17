@@ -4,6 +4,9 @@
 flask-thumbnails
 ================
 
+Fork by: Joe Schroecker on 2015/07/17
+Reason: Almost complete rewrite to be more modular. Now supports storing and fetching Thumbnails in Google Cloud Storage. ^
+
 A simple extension to create a thumbs for the Flask
 
 
